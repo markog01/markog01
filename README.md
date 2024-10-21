@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate frontend developer with a strong foundati
 
 ### 👨‍💻 About Me:
 - 🎓 **Degree**: BSc in Information Technology from University Sinergija
-- 💼 Currently looking for opportunities in **frontend development** and **QA testing**
+- 💼 Currently looking for opportunities in **frontend development**
 - 🧑‍💻 Constantly building and improving my skills through **personal projects** and **coding challenges**
 - 🔍 **Open to collaborations** on frontend development, UI/UX projects, and other exciting web-based innovations
 
