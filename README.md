@@ -13,8 +13,8 @@ Welcome to my GitHub! I'm a passionate frontend developer with a strong foundati
 ### 🛠️ Skills:
 - **Frontend**: HTML, CSS, JavaScript, SASS, Webflow, WordPress
 - **Version Control**: Git, GitHub
-- **Problem-Solving**: Decision support, app development, game development
 
+  
 ### 📈 Current Focus:
 I’m focusing on expanding my frontend development portfolio and learning new technologies. 
 
